@@ -19,3 +19,5 @@ DURATION:SEPTEMBER TO NOVEMBER
 * OpenWeatherMap API for weather data.  
 * Axios for API request.  
 * Font Awesome for icons.    
+# output:  
+ https://yasmin382.github.io/CODTECH-TASK-2/
