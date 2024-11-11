@@ -23,4 +23,5 @@ DURATION:SEPTEMBER TO NOVEMBER
  https://yasmin382.github.io/CODTECH-TASK-2/  
  # output:  
  ![image](https://github.com/user-attachments/assets/30041fe4-c7e3-477f-a2dd-43918c67f208)
+![image](https://github.com/user-attachments/assets/eb1ed014-27cd-4487-9ba0-b089cb9e84a5)
 
